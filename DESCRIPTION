@@ -1,0 +1,17 @@
+Package: ikba
+Type: Package
+Title: Tools for the detection of Important and Key Biodiversity Areas 
+Version: 0.0.1
+Date: 2018-09-10
+Authors@R: person("Ruben", "Remelgado", role = c("aut", "cre"), email="ruben.remelgado@uni-wuerzburg.de")
+URL: https://github.com/RRemelgado/ikba/
+BugReports: https://github.com/RRemelgado/ikba/issues/
+Maintainer: Ruben Remelgado <ruben.remelgado@uni-wuerzburg.de>
+Description: Detection of biodiversity hotspots for the development of animal conservation practices.
+LazyData: TRUE
+Imports: raster, sp, caret, rgdal, gdalUtils, ggplot2, grDevices, RCurl, spatialEco, lubridate, pryr, plyr, igraph, lattice, randomForest
+RoxygenNote: 6.1.0
+License: GPL (>= 3)
+Suggests: knitr, rmarkdown, kableExtra, imager, devtools
+VignetteBuilder: knitr
+Encoding: UTF-8
