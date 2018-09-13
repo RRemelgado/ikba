@@ -11,10 +11,10 @@ Tools for the detection of Important and Key Biodiversity Areas
 <br>
 
 
-<table>
+<table align="center" style="border-collapse:collapse;">
 <tr>
-<tc width="300"><img src="https://octodex.github.com/images/constructocat2.jpg" height="100"></tc>
-<tc width="300">Sorry guys, Under construction. If you have questions, e-mail me (<a href="mailto:ruben.remelgado@uni-wuerzburg.de">ruben.remelgado@uni-wuerzburg.de</a>)</tc>
+<th width="300"><img src="https://octodex.github.com/images/constructocat2.jpg" height="200"></th>
+  <th width="500"><p>Sorry guys, Under construction :/</p><p>If you have questions, please write me</p><p>e-mail: (<a href="mailto:ruben.remelgado@uni-wuerzburg.de">ruben.remelgado@uni-wuerzburg.de</a>)</p></th>
 </tr>
   
 </table>
