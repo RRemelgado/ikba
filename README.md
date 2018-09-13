@@ -5,10 +5,22 @@
 Tools for the detection of Important and Key Biodiversity Areas
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
+
+<table>
+<tr>
+<tc width="300"><img src="https://octodex.github.com/images/constructocat2.jpg" height="100"></tc>
+<tc width="300">Sorry guys, Under construction. If you have questions, e-mail me (<a href="mailto:ruben.remelgado@uni-wuerzburg.de">ruben.remelgado@uni-wuerzburg.de</a>)</tc>
+</tr>
+  
+</table>
 <p align="center">
-<img src="https://octodex.github.com/images/constructocat2.jpg" widht="100">
-<caption>Sorry guys, Under construction. If you have questions, contact me through the e-mail below</caption>
-<a href="mailto:ruben.remelgado@uni-wuerzburg.de">ruben.remelgado@uni-wuerzburg.de</a> 
+
+
 
 </p>
 
