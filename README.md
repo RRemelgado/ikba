@@ -27,6 +27,5 @@
 <br>
 
 ### In cooperation with
-<p align="center">
-<img src="https://www.birdlife.org/sites/default/files/logo_0.png" width="600">
-</p>
+<br>
+<p align="center"><img src="https://www.birdlife.org/sites/default/files/logo_0.png" width="600"></p>
