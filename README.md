@@ -1,11 +1,17 @@
 ## ikba - Mapping of Important and Key Biodiversity Areas
 
 <br>
-###        will
-### What ~~does~~ it do?
+
+### What ~~does~~ will it do?
+
+
 <p>
-  <i>ikba</i> uses species distribution maps to identify clusters of species occurences that can be translated in biodiversity hotspots. Each of these clusters are analyzed separately and and report is provided reporting on e.g. species, extent and ranking. The ranking depends on the users input. e.g. The user might choose to relate the species to the <a href="http://www.iucnredlist.org/">IUCN red list of Threatened Species</a>. Possible developments 
+  <i>ikba</i> uses species distribution maps to identify clusters of species occurences that can be translated in biodiversity hotspots. Each of these clusters are analyzed separately and and report is provided reporting on e.g. species, extent and ranking. The ranking depends on the users input. e.g. The user might choose to relate the species to the <a href="http://www.iucnredlist.org/">IUCN red list of Threatened Species</a>. Possible developments include:
 </p>
+
+* API connection to find <a href="http://datazone.birdlife.org/home">Birdlife's species distribution data</a>
+* Characterization of user-defined areas (e.g. cloud cover, land cover)
+* Inclusion of custom species distribution assessment methods
 
 <br>
 <br>
