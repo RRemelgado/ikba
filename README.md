@@ -1,7 +1,10 @@
 ## ikba - Mapping of Important and Key Biodiversity Areas
 
+<br>
+###        will
+### What ~~does~~ it do?
 <p>
-Tools for the detection of Important and Key Biodiversity Areas
+  <i>ikba</i> uses species distribution maps to identify clusters of species occurences that can be translated in biodiversity hotspots. Each of these clusters are analyzed separately and and report is provided reporting on e.g. species, extent and ranking. The ranking depends on the users input. e.g. The user might choose to relate the species to the <a href="http://www.iucnredlist.org/">IUCN red list of Threatened Species</a>. Possible developments 
 </p>
 
 <br>
