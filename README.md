@@ -1,4 +1,4 @@
-# ikba
+# ikba - Mapping of Important and Key Biodiversity Areas
 
 <p>
 Tools for the detection of Important and Key Biodiversity Areas
